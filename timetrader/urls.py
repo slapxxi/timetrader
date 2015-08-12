@@ -16,6 +16,10 @@ Including another URLconf
 from django.conf.urls import include, url
 from django.contrib import admin
 
+from pages import urls as pages_urls
+
+
 urlpatterns = [
+  url(r'^', include(pages_urls)),
   url(r'^admin/', include(admin.site.urls)),
 ]
