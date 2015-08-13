@@ -1,25 +1,24 @@
 # Time Trader
 
 **Time Trader** is a time-management web application that allows to manage
-time as if it would an investment.
+time like a proper investment.
 
 
-## Features
+## Python & Django
 
-I want to lay out the features to be implemented here.
-
-
-## JavaScript Replacement
-
-
-- [ ] Use Elm instead of JavaScript to learn the basics of FRP and functional
-  programming.
+- [x] Learn about WSGI.
+- [ ] Learn about Python's `__iter__` and `yield`.
+- [ ] Learn about networking principles with Python
 
 
-## Third Party Solutions
+## Assets Management
 
-- [x] Embed any video from YouTube. It's interesting how easy it's to embed a
-  video.
+- [ ] Setup Brunch for managing assets.
+- [ ] Configure Brunch to use Elm in addition to JavaScript.
+- [ ] Configure Brunch to use SCSS & Susy.
 
-- [ ] Use a CSS grid framework. Instead of writing your own CSS framework,
-  it's reasonable to use the most popular of the existing solutions.
+
+## Miscellaneous
+
+- [x] Embed any video from YouTube.
+- [ ] Integrate Disqus comments.
