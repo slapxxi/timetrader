@@ -7,7 +7,9 @@ time like a proper investment.
 ## Python & Django
 
 - [x] Learn about WSGI.
+- [x] Learn about Python's special methods
 - [ ] Learn about Python's `__iter__` and `yield`.
+- [ ] Learn about Python's `with` blocks
 - [ ] Learn about networking principles with Python
 
 
