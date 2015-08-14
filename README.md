@@ -8,9 +8,10 @@ time like a proper investment.
 
 - [x] Learn about WSGI.
 - [x] Learn about Python's special methods
-- [ ] Learn about Python's `__iter__` and `yield`.
-- [ ] Learn about Python's `with` blocks
+- [x] Learn about Python's `with` blocks
+- [ ] Learn about Python's `__iter__` and `__next__`
 - [ ] Learn about networking principles with Python
+- [ ] Learn about coroutines in Python
 
 
 ## Assets Management
