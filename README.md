@@ -7,11 +7,12 @@ time like a proper investment.
 ## Python & Django
 
 - [x] Learn about WSGI.
-- [x] Learn about Python's special methods
-- [x] Learn about Python's `with` blocks
-- [ ] Learn about Python's `__iter__` and `__next__`
-- [ ] Learn about networking principles with Python
-- [ ] Learn about coroutines in Python
+- [x] Learn about Python's special methods.
+- [x] Learn about Python's `with` blocks.
+- [ ] Learn about Python's `__iter__` and `__next__`.
+- [ ] Learn about networking principles with Python.
+- [ ] Learn about coroutines in Python.
+- [x] Learn about Python's docstring conventions.
 
 
 ## Assets Management
