@@ -30,6 +30,7 @@ time like a proper investment.
 
 - [ ] Learn about networking principles.
 - [x] Learn about the fundamentals of web scraping.
+- [x] Learn the basics of `BeautifulSoup`.
 
 
 ## Assets Management
