@@ -13,7 +13,7 @@ time like a proper investment.
 - [ ] Learn about coroutines.
 - [x] Learn about docstring conventions.
 - [ ] Learn about function annotations.
-- [ ] Learn about Abstract Base Classes (ABCs).
+- [x] Learn about Abstract Base Classes (ABCs).
 - [ ] Learn about descriptors.
 - [ ] Learn about meta-classes.
 - [x] Watch a talk about [modern Python patterns and idioms](https://www.youtube.com/watch?t=10&v=LeuChRCByZc) by Alex Martelli.
