@@ -11,6 +11,7 @@ time like a proper investment.
 - [x] Learn about `with` blocks and context management.
 - [x] Learn about `__iter__` and iterators.
 - [ ] Learn about coroutines.
+- [x] Learn about generic functions.
 - [x] Learn about docstring conventions.
 - [x] Learn about function annotations.
 - [x] Learn about Abstract Base Classes (ABCs).
