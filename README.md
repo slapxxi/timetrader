@@ -12,7 +12,7 @@ time like a proper investment.
 - [x] Learn about `__iter__` and iterators.
 - [ ] Learn about coroutines.
 - [x] Learn about docstring conventions.
-- [ ] Learn about function annotations.
+- [x] Learn about function annotations.
 - [x] Learn about Abstract Base Classes (ABCs).
 - [ ] Learn about descriptors.
 - [ ] Learn about meta-classes.
