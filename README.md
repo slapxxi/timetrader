@@ -29,10 +29,10 @@ time like a proper investment.
 
 ## Python for Networking
 
-- [ ] Learn about networking principles.
 - [x] Learn about the fundamentals of web scraping.
 - [x] Learn the basics of `BeautifulSoup`.
 - [x] Learn the basics of working with HTTP.
+- [x] Learn a bit about APIs.
 
 
 ## Assets Management
