@@ -10,6 +10,7 @@ time like a proper investment.
 - [x] Learn about special methods.
 - [x] Learn about `with` blocks and context management.
 - [x] Learn about `__iter__` and iterators.
+- [x] Learn about generators.
 - [ ] Learn about coroutines.
 - [x] Learn about generic functions.
 - [x] Learn about docstring conventions.
