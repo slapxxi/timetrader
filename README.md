@@ -20,6 +20,7 @@ time like a proper investment.
 - [ ] Learn about meta-classes.
 - [x] Watch a talk about [modern Python patterns and idioms](https://www.youtube.com/watch?t=10&v=LeuChRCByZc) by Alex Martelli.
 - [ ] Learn about the Wheel package format.
+- [x] Watch [Super Considered Super!](https://www.youtube.com/watch?v=EiOglTERPEo) by Raymond Hettinger.
 
 
 ## Python for Finance
