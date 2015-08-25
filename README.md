@@ -9,6 +9,8 @@ time like a proper investment.
 - [x] Learn about stateless web applications.
 - [x] Learn about caching with ETags.
 - [x] Learn about serving static files.
+- [x] Learn about static site generation.
+- [ ] Learn about REST APIs.
 
 
 ## Python
