@@ -3,6 +3,11 @@
 **Time Trader** is a time-management web application that allows to manage
 time like a proper investment.
 
+## Django
+
+- [x] Learn about lightweight Django.
+- [ ] Learn about stateless web applications.
+
 
 ## Python
 
