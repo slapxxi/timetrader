@@ -6,7 +6,9 @@ time like a proper investment.
 ## Django
 
 - [x] Learn about lightweight Django.
-- [ ] Learn about stateless web applications.
+- [x] Learn about stateless web applications.
+- [ ] Learn about caching with ETags.
+- [ ] Learn about serving static files.
 
 
 ## Python
