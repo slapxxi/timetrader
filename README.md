@@ -7,8 +7,8 @@ time like a proper investment.
 
 - [x] Learn about lightweight Django.
 - [x] Learn about stateless web applications.
-- [ ] Learn about caching with ETags.
-- [ ] Learn about serving static files.
+- [x] Learn about caching with ETags.
+- [x] Learn about serving static files.
 
 
 ## Python
