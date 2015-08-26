@@ -3,6 +3,7 @@
 **Time Trader** is a time-management web application that allows to manage
 time like a proper investment.
 
+
 ## Django
 
 - [x] Learn about lightweight Django.
@@ -11,6 +12,7 @@ time like a proper investment.
 - [x] Learn about serving static files.
 - [x] Learn about static site generation.
 - [x] Learn about REST APIs.
+- [x] Learn the basics of Tornado.
 
 
 ## Python
