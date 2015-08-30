@@ -13,6 +13,8 @@ time like a proper investment.
 - [x] Learn about static site generation.
 - [x] Learn about REST APIs.
 - [x] Learn the basics of Tornado.
+- [ ] Learn how to use TDD with Django.
+- [x] Create an app for list management.
 
 
 ## Python
